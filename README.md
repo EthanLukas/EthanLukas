@@ -26,4 +26,4 @@ Projects that innovate and resonate deeply with users, particularly in software 
 # 📫 Let's Connect!
 **LinkedIn**: [https://www.linkedin.com/in/ethanlukas/](https://www.linkedin.com/in/ethanlukas/)
 
-**Email**: [ethanalukas@gmail.com](ethanalukas@gmail.com)
+**Email**: [ethanalukas@gmail.com](mailto:ethanalukas@gmail.com)
