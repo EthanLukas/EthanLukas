@@ -1,3 +1,5 @@
+![LinkedIn Banner](https://github.com/user-attachments/assets/1ae8c383-b05b-40a3-ae93-4f522691f8aa)
+
 # 👋 Hi there! I'm Ethan!
 
 # 🎓 Educational Background:
