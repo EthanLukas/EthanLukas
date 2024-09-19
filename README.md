@@ -14,8 +14,12 @@ I'm a **Software Developer** passionate about leveraging technology to solve rea
 
 
 # 📈 GitHub Stats:
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanLukas)](https://github.com/EthanLukas/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanLukas&theme=tokyonight&hide_border=true" alt="EthanLukas's Streak" height="165">
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EthanLukas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="EthanLukas's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanLukas&theme=tokyonight&hide_border=true" alt="EthanLukas's Streak" height="165">
+  </p>
+</div>
 
 
 # 💼 Professional Experience:
