@@ -15,11 +15,12 @@ Tools & Frameworks: React, AWS, Amazon Bedrock, Ruby on Rails, Git/GitHub, Xcode
 **PricewaterhouseCoopers (PwC) (Consulting Solutions Intern)**: My role involved conducting extensive data analytics, leading a Pro Bono Client Project, and completing intensive training in AI Information Extraction and Digital Acumen.
 
 # 🌱 I’m currently learning:
-I am focused on deepening my knowledge in AI and large-scale system design, constantly seeking out new challenges that stretch my technical and strategic thinking abilities.
+I am focused on deepening my knowledge in Artificial Intelligence and large-scale system design, constantly seeking new challenges that stretch my technical and strategic thinking abilities.
 
 # 👯 I’m looking to collaborate on:
-Projects that innovate and resonate deeply with users, particularly in software development and AI, leveraging my background in intelligence systems.
+Projects that innovate and resonate deeply with users, particularly in software development and AI, leveraging my background in intelligence systems. I want to create changes that make real impacts to help people.
 
 # 📫 How to reach me:
 LinkedIn: [https://www.linkedin.com/in/ethanlukas/](url)
+
 Email: [ethanalukas@gmail.com](url)
