@@ -7,6 +7,7 @@ I'm currently pursuing a Bachelor of Science in Computer Science at the Universi
 
 # 🛠 Technical Skills:
 **Languages:** Python, Java, JavaScript, TypeScript, C/C++, SQL, HTML, CSS, Swift, Ruby
+
 **Tools & Frameworks:** React, AWS, Amazon Bedrock, Ruby on Rails, Git/GitHub, Xcode, RESTful APIs, Microsoft Excel
 
 # 💼 Professional Experience:
