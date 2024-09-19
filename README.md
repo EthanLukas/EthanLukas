@@ -6,13 +6,13 @@
 I'm currently pursuing a Bachelor of Science in Computer Science at the University of California, Irvine, specializing in Intelligence Systems, with an expected graduation in March 2025. I maintain a GPA of 3.92, with my studies being recognized with the Dean's Honor List, the Phi Beta Kappa Honor Society Book Award, and the Rose Hills STEM Award.
 
 # 🛠 Technical Skills:
-Languages: Python, Java, JavaScript, TypeScript, C/C++, SQL, HTML, CSS, Swift, Ruby
-Tools & Frameworks: React, AWS, Amazon Bedrock, Ruby on Rails, Git/GitHub, Xcode, RESTful APIs, Microsoft Excel
+**Languages:** Python, Java, JavaScript, TypeScript, C/C++, SQL, HTML, CSS, Swift, Ruby
+**Tools & Frameworks:** React, AWS, Amazon Bedrock, Ruby on Rails, Git/GitHub, Xcode, RESTful APIs, Microsoft Excel
 
 # 💼 Professional Experience:
-**Instructure (Software Engineer Intern)**: I developed a Generative AI feature using AWS, Amazon Bedrock, and React, enhancing the question generation process for educational content. I also worked on integrating Retrieval-Augmented Generation (RAG) with a knowledge base for this feature and improved system reliability by identifying and resolving bugs.
+**Instructure (Software Engineer Intern):** I developed a Generative AI feature using AWS, Amazon Bedrock, and React, enhancing the question generation process for educational content. I also worked on integrating Retrieval-Augmented Generation (RAG) with a knowledge base for this feature and improved system reliability by identifying and resolving bugs.
 
-**PricewaterhouseCoopers (PwC) (Consulting Solutions Intern)**: My role involved conducting extensive data analytics, leading a Pro Bono Client Project, and completing intensive training in AI Information Extraction and Digital Acumen.
+**PricewaterhouseCoopers (PwC) (Consulting Solutions Intern):** My role involved conducting extensive data analytics, leading a Pro Bono Client Project, and completing intensive training in AI Information Extraction and Digital Acumen.
 
 # 🌱 I’m currently learning:
 I am focused on deepening my knowledge in Artificial Intelligence and large-scale system design, constantly seeking new challenges that stretch my technical and strategic thinking abilities.
