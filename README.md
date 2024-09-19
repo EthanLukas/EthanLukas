@@ -1,6 +1,6 @@
 ![LinkedIn Banner](https://github.com/user-attachments/assets/1ae8c383-b05b-40a3-ae93-4f522691f8aa)
 
-# 👋 Hi there! I'm Ethan!
+# 👋 Hello! I'm Ethan, thanks for checking out my profile!
 
 # 🎓 Educational Background:
 I'm currently pursuing a Bachelor of Science in Computer Science at the University of California, Irvine, specializing in Intelligence Systems, with an expected graduation in March 2025. I maintain a GPA of 3.92, with my studies being recognized with the Dean's Honor List, the Phi Beta Kappa Honor Society Book Award, and the Rose Hills STEM Award.
