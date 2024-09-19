@@ -24,6 +24,6 @@ I am focused on deepening my knowledge in Artificial Intelligence and large-scal
 Projects that innovate and resonate deeply with users, particularly in software development and AI, leveraging my background in intelligence systems. I want to create changes that make real impacts to help people.
 
 # 📫 Let's Connect!
-**LinkedIn**: [https://www.linkedin.com/in/ethanlukas/](url)
+**LinkedIn**: [https://www.linkedin.com/in/ethanlukas/](https://www.linkedin.com/in/ethanlukas/)
 
-**Email**: [ethanalukas@gmail.com](url)
+**Email**: [ethanalukas@gmail.com](ethanalukas@gmail.com)
