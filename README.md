@@ -2,8 +2,10 @@
 
 # 👋 Hello! I'm Ethan, thanks for checking out my profile!
 
-# 🎓 Educational Background:
-I'm currently pursuing a Bachelor of Science in Computer Science at the University of California, Irvine, specializing in Intelligence Systems, with an expected graduation in March 2025. I maintain a GPA of 3.92, with my studies being recognized with the Dean's Honor List, the Phi Beta Kappa Honor Society Book Award, and the Rose Hills STEM Award.
+I'm a software engineer passionate about leveraging technology to solve real-world challenges and enhance user experiences!
+
+🎓 **Computer Science Student @ UC Irvine specializing in Intelligence Systems**  
+💡 **Aspiring Software Engineer**  
 
 # 🛠 Technical Skills:
 **Languages:** Python, Java, JavaScript, TypeScript, C/C++, SQL, HTML, CSS, Swift, Ruby
@@ -21,7 +23,7 @@ I am focused on deepening my knowledge in Artificial Intelligence and large-scal
 # 👯 I’m looking to collaborate on:
 Projects that innovate and resonate deeply with users, particularly in software development and AI, leveraging my background in intelligence systems. I want to create changes that make real impacts to help people.
 
-# 📫 How to reach me:
-LinkedIn: [https://www.linkedin.com/in/ethanlukas/](url)
+# 📫 Let's Connect!
+**LinkedIn**: [https://www.linkedin.com/in/ethanlukas/](url)
 
-Email: [ethanalukas@gmail.com](url)
+**Email**: [ethanalukas@gmail.com](url)
