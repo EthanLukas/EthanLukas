@@ -15,6 +15,8 @@ I'm a **Software Developer** passionate about leveraging technology to solve rea
 
 # 📈 GitHub Stats:
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanLukas)](https://github.com/EthanLukas/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanLukas&theme=tokyonight&hide_border=true" alt="EthanLukas's Streak" height="165">
+
 
 # 💼 Professional Experience:
 **Instructure (Software Engineer Intern):** I developed a Generative AI feature using AWS, Amazon Bedrock, and React, enhancing the question generation process for educational content. I also worked on integrating Retrieval-Augmented Generation (RAG) with a knowledge base for this feature and improved system reliability by identifying and resolving bugs.
