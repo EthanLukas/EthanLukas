@@ -2,7 +2,8 @@
 
 # 👋 Hello! I'm Ethan, thanks for checking out my profile!
 
-[🌐 Visit My Website](https://ethanlukas.vercel.app/)  
+# Visit My Website
+(https://ethanlukas.vercel.app/)  
 
 I'm a **Software Developer** passionate about leveraging technology to solve real-world challenges and enhance user experiences!
 
