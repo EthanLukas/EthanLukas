@@ -3,6 +3,7 @@
 # 👋 Hello! I'm Ethan, thanks for checking out my profile!
 
 # **🌐 [Check out my Website!](https://ethanlukas.vercel.app/)**
+# **🌐 <a href="[https://yourwebsite.com](https://ethanlukas.vercel.app/)" target="_blank">Check out my Website!</a>**
 
 I'm a **Software Developer** passionate about leveraging technology to solve real-world challenges and enhance user experiences!
 
