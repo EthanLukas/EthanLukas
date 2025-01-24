@@ -2,6 +2,8 @@
 
 # 👋 Hello! I'm Ethan, thanks for checking out my profile!
 
+[🌐 Visit My Website](https://yourwebsite.com)  
+
 I'm a **Software Developer** passionate about leveraging technology to solve real-world challenges and enhance user experiences!
 
 🎓 **Computer Science Student @ UC Irvine specializing in Artificial Intelligence/Machine Learning**  
