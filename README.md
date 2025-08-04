@@ -7,7 +7,7 @@
 I'm a **Software Developer** passionate about leveraging technology to solve real-world challenges and enhance user experiences!
 
 🎓 **Computer Science Student @ UC Irvine specializing in Artificial Intelligence/Machine Learning**  
-💡 **Aspiring Software Engineer**  
+💡 **Software Engineer**  
 
 # 🛠 Technical Skills:
 **Languages:** Python, Java, JavaScript, TypeScript, C/C++, SQL, HTML, CSS, Swift, Ruby
