@@ -26,7 +26,7 @@ I am focused on deepening my knowledge in Artificial Intelligence and large-scal
 Projects that innovate and resonate deeply with users, particularly in software development and AI, leveraging my background in intelligence systems. I want to create changes that make real impacts to help people.
 
 # 📫 Let's Connect!
-**Website**: [https://www.ethanalukas.com/]([https://ethanlukas.vercel.app/](https://www.ethanalukas.com/))
+**Website**: [https://www.ethanalukas.com/]([https://ethanlukas.vercel.app/](https://www.ethanalukas.com/)
 
 **LinkedIn**: [https://www.linkedin.com/in/ethanlukas/](https://www.linkedin.com/in/ethanlukas/)
 
